@@ -1,3 +1,15 @@
+# Deprecated
+
+Those plugins are no longer maintained !
+You can find some forks : 
+
+Firebase_ui : https://github.com/Maliffic/firebase_ui
+
+
+Let me know if there are other forks for other plugins.
+
+
+
 # Fidelisa Flutter plugins
 
 This repo contains the source code for Fidelisa Flutter plugins.
